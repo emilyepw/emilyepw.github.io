@@ -1,24 +1,23 @@
-# Emily Wilson Professional Website
+EMILY WILSON PROFESSIONAL WEBSITE
 Emily Wilson Professional Website is a website used to provide information and display projects.
 
 
-## Contributing
-
+CONTRIBUTING
 Pull requests are not welcome.
 
 
-## Credits
-
-### Demo Images:
+CREDITS
+DEMO IMAGES:
 Unsplash (unsplash.com)
-### Icons:
+
+ICONS:
 Font Awesome (fontawesome.io)
-### Other:
+
+OTHER:
 jQuery (jquery.com)
 Scrollex (github.com/ajlkn/jquery.scrollex)
 Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-## License
-
+LICENSE
 [CCA 3.0](https://html5up.net/license)
