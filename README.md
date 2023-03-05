@@ -14,11 +14,11 @@ Unsplash (unsplash.com)
 ### Icons:
 Font Awesome (fontawesome.io)
 ### Other:
-[jQuery](jquery.com)
+[jQuery](https://jquery.com/)
 
-[Scrollex](github.com/ajlkn/jquery.scrollex)
+[Scrollex](https://github.com/ajlkn/jquery.scrollex)
 
-[Responsive Tools](github.com/ajlkn/responsive-tools)
+[Responsive Tools](https://github.com/ajlkn/responsive-tools)
 
 
 ## License
