@@ -9,11 +9,11 @@ Pull requests are not welcome.
 
 ## Credits
 
-### Demo Images:
-Unsplash (unsplash.com)
-### Icons:
-Font Awesome (fontawesome.io)
-### Other:
+### Demo Images
+[Unsplash](https://unsplash.com/)
+### Icons
+[Font Awesome](https://fontawesome.com/)
+### Other
 [jQuery](https://jquery.com/)
 
 [Scrollex](https://github.com/ajlkn/jquery.scrollex)
